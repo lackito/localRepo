@@ -1,3 +1,5 @@
 THIS IS A TEST
 
 THIS IS ONLY A TEST OF THE EMERGENCY BROADCAST SYSTEM
+
+This message will self destruct in 10 secs
